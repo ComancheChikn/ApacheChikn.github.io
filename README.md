@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... shawnfeltmate@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact 1: ... If you really want to understand a man, don't just listen to what he says but watch what he does.
-- ⚡ Fun fact 1: ... Life is hard, but it's harder if you're stupid.
+- ⚡ Fun fact 2: ... Life is hard, but it's harder if you're stupid.
