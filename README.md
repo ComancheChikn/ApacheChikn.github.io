@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Myself (I'm a dark-horse).
 - 🌱 I’m currently learning ... Cloud Engineering skills.
-- 👯 I’m looking to collaborate on ... Terraform projects.
+- 👯 I’m looking to collaborate on ... Terraform or AWS Cloud Formation projects.
 - 🤔 I’m looking for help with ... Landing an internship. (Luck is for games of chance. I prefer dedication and focused attention.)
 - 💬 Ask me about ... What inspires me.
 - 📫 How to reach me: ... shawnfeltmate@gmail.com
