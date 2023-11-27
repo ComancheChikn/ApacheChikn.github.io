@@ -1,5 +1,5 @@
 # ApacheChikn.github.io
-A web site created to contain content of a professional nature to showcase my DevOps skill set.
+A repo created to contain my personal web site to showcase my HTML skill set.
 
 # I'm ApacheChikn and I'm a DevOps Padawan.
 
@@ -30,9 +30,10 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... Myself (I'm a dark-horse).
 - 🌱 I’m currently learning ... Cloud Engineering skills.
 - 👯 I’m looking to collaborate on ... Terraform or AWS Cloud Formation projects.
-- 🤔 I’m looking for help with ... Landing an internship. (Luck is for games of chance. I prefer dedication and focused attention.)
+- 🤔 I’m looking for help with ... Landing an internship.
 - 💬 Ask me about ... What inspires me.
 - 📫 How to reach me: ... shawnfeltmate@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact 1: ... If you really want to understand a man, don't just listen to what he says but watch what he does.
-- ⚡ Fun fact 2: ... Life is hard, but it's harder if you're stupid.
+- ⚡ Fun fact 2: ... Luck is for games of chance. I prefer dedication and focused attention.
+- ⚡ Fun fact 3: ... Life is hard, but it's harder if you're stupid.
