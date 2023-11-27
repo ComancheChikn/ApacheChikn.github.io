@@ -1,5 +1,5 @@
 # ApacheChikn.github.io
-A repo created to contain my personal web site to showcase my HTML skill set.
+A repo created to contain my personal web site and other web sites to showcase my HTML skill set.
 
 # I'm ApacheChikn and I'm a DevOps Padawan.
 
