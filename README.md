@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - ✨ Ask me about ... What inspires me.
 - 📫 How to reach me: ... shawnfeltmate@gmail.com
 - 🌀 Pronouns: ... He/Him
-- ⚡ Fun fact 1: ... If you really want to understand a man, don't just 👂listen to what he says but 👀watch what he does.
+- ⚡ Fun fact 1: ... If you want to understand a man, don't listen to what he says but 👀watch what he does.
 - ⚡ Fun fact 2: ... Luck🍀 is for games of chance🎲. I prefer dedication (focused attention) and skill🎱.
 - ⚡ Fun fact 3: ... Life is hard, but it's harder if you're stupid.😝
-- 🌿 Thank you for stopping by, and may you always know peace and blessings!!!💚〰️💛〰️💙〰️💜〰️❤️〰️💜〰️💙〰️💛〰️💚
+- 🌿 Thank you for stopping by, and may you always know peace and blessings!!!💚〰️💛〰️💙〰️💜〰️❤️
