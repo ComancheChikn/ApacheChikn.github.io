@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 - 🌀 Pronouns: ... He/Him
 - ⚡ Fun fact 1: ... If you want to understand a man, don't listen to what he says but 👀watch what he does.
 - ⚡ Fun fact 2: ... Luck🍀 is for games of chance🎲. I prefer dedication (focused attention), and skill🎱.
-- ⚡ Fun fact 3: ... Life is hard, but it's harder if you're stupid.😝
+- ⚡ Fun fact 3: ... Hard work beats talent when talent doesn't work hard.
+- ⚡ Fun fact 4: ... Life is hard, but it's harder if you're stupid.😝
 - 🌿 Thank you for stopping by, and may you always know peace and blessings!!! 💚〰️💛〰️💙〰️💜〰️❤️
 - ❤️🩷🧡💛💚💙🩵💜🤎🖤🤎💜🩵💙💚💛🧡🩷❤️🩷🧡💛💚💙🩵💜🤎🖤🤎💜🩵💙💚💛🧡🩷❤️
