@@ -1,6 +1,6 @@
 # ApacheChikn.github.io
 
-A repo created to contain my personal web site and other web sites to showcase my HTML skill set.
+A repo created to contain my personal web site and other web sites projects.
 
 # I'm ApacheChikn and I'm a DevOps Padawan.
 
@@ -8,7 +8,7 @@ A repo created to contain my personal web site and other web sites to showcase m
 
 - ## GitHub Stats
 
-  ![Github Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ApacheChikn?cardType=github&theme=midnight-purple&preferLogin=false)
+  ![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ApacheChikn?cardType=github&theme=midnight-purple&preferLogin=false)
 
   ![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ApacheChikn&theme=midnight-purple)
 
@@ -23,14 +23,6 @@ A repo created to contain my personal web site and other web sites to showcase m
   <!-- START_SECTION:waka ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ApacheChikn) END_SECTION:waka -->
 
     <p><img src="https://wakatime.com/share/@ApacheChikn/db6cfdb5-7d09-4de0-840a-d70c09b9d4a2.svg" height="640" width="840"></p>
-
-<!--
-### Hi there 👋
-
-**ApacheChikn/ApacheChikn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 
 - 🍄 I’m currently working on ... Myself (I'm a dark-horse🐎. A diamond💎to be discovered).
 - 🌳 I’m currently learning ... ☁️Cloud Engineering skills.
