@@ -1,6 +1,6 @@
 # ApacheChikn.github.io
 
-A repo created to contain my personal web site and other web sites projects.
+A repo created to contain my personal website and other website projects.
 
 # I'm ApacheChikn and I'm a DevOps Padawan.
 
@@ -12,7 +12,7 @@ A repo created to contain my personal web site and other web sites projects.
 
   ![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ApacheChikn&theme=midnight-purple)
 
-<!-- ![Github Stats-ALTERNATIVE](https://github-readme-stats.vercel.app/api?username=ApacheChikn&theme=midnight-purple&show_icons=true) -->
+<!-- ![GitHub Stats-ALTERNATIVE](https://github-readme-stats.vercel.app/api?username=ApacheChikn&theme=midnight-purple&show_icons=true) -->
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ApacheChikn&theme=midnight-purple&mode=weekly)
 
