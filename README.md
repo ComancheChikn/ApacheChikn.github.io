@@ -24,10 +24,10 @@ A repo created to contain my personal website and other website projects.
 
     <p><img src="https://wakatime.com/share/@ApacheChikn/db6cfdb5-7d09-4de0-840a-d70c09b9d4a2.svg" height="640" width="840"></p>
 
-- 🍄 I’m currently working on ... Myself (I'm a dark-horse🐎. A diamond💎to be discovered).
+- 🍄 I’m currently working on ... Myself (I'm a dark-horse🐎... A diamond💎to be discovered).
 - 🌳 I’m currently learning ... ☁️Cloud Engineering skills.
 - 👯 I’m looking to collaborate on ... Terraform and/or AWS Cloud Formation projects.
-- 😇 I’m looking for help with ... 💪Landing a DevOps internship.
+- 💪 I’m looking for help with ... 😇Landing a DevOps internship.
 - ✨ Ask me about ... What inspires me.
 - 📫 How to reach me: ... shawnfeltmate@gmail.com
 - 🌀 Pronouns: ... He/Him
