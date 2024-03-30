@@ -25,7 +25,7 @@ A repo created to contain my personal website and other website projects.
 - ## Greetings
 
 - 🍄 I’m currently working on ... Myself (I'm a dark-horse🐎... A diamond 💎 to be discovered).
-- 🌳 I’m currently learning ... ☁️Cloud Engineering skills.
+- 🌳 I’m currently learning ... ☁️ Cloud Engineering skills.
 - 👯 I’m looking to collaborate on ... Terraform and/or AWS Cloud Formation projects.
 - 💪 I’m looking for help with ... 😇 Landing a DevOps internship.
 - ✨ Ask me about ... What inspires me.
